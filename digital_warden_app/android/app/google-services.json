@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81378777638",
+    "project_id": "digitalwarden-332e9",
+    "storage_bucket": "digitalwarden-332e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81378777638:android:e8808c6027ac88614964e7",
+        "android_client_info": {
+          "package_name": "com.digital_warden_app.digital_warden_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvpMne-XaEwzMgOpwLBLXTa0z-9CnYCgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
